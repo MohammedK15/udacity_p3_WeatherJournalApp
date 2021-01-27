@@ -8,11 +8,11 @@ This project is about creating an API that communicate with '[open weather map](
 
 This projec uses the fallowing technologies as external file needed to be installed:
 * NodeJs.
-  * by download NodeJS from [Here](https://nodejs.org/en/download/)
+    * by download NodeJS from [Here](https://nodejs.org/en/download/)
 * Express.
-  * by running this command 'npm install express' 
+    * by running this command 'npm install express'
 * cors.
-  * by running this command 'npm install cors'
+    * by running this command 'npm install cors'
 * body-parser.
-  * by running this command 'npm install body-parser'
+    * by running this command 'npm install body-parser'
 ___
